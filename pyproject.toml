@@ -12,7 +12,7 @@ license = {text = "Apache-2.0"}
 authors = [{name = "Ignacio Oguiza and contributors", email = "oguiza@timeseriesAI.co"}]
 keywords = ['fastai', 'time-series', 'time-series-classification', 'time-series-regression', 'deep-learning', 'Pytorch']
 classifiers = ["Natural Language :: English", "Intended Audience :: Developers", "Development Status :: 5 - Production/Stable", "Programming Language :: Python :: 3", "Programming Language :: Python :: 3 :: Only"]
-dependencies = ['fastai>=2.8.7', 'fastcore>=1.13.2', 'pyts>=0.13.0', 'imbalanced-learn>=0.14', 'psutil>=6.1.0', 'scikit-learn>=1.7,<1.8', 'torch>=2.12,<3']
+dependencies = ['fastai>=2.8.7', 'fastcore>=1.13.2', 'pyts>=0.13.0', 'imbalanced-learn>=0.14', 'psutil>=6.1.0', 'scikit-learn>=1.7,<2', 'torch>=2.12,<3']
 
 [project.urls]
 Repository = "https://github.com/timeseriesAI/tsai/"
